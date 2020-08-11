@@ -40,7 +40,7 @@ pip install jupyterlab seaborn pandas matplotlib
 2. Navigate to the ipynb files
 3. Start a cmd at the folder location
 4. Use
-'''shell
+```shell
 jupyter lab
 ```
 5. It should auto start a kernel on the preferred browser
