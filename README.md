@@ -18,7 +18,7 @@ Given the data, attempt to predict the data, ascertaining the survivability of p
 
 First completion : 
 
-**titanic_survivors_classifications.ipynb**
+(titanic_survivors_classifications.ipynb)[titanic_survivors_classifications.ipynb]
 
 ## Requirements
 
