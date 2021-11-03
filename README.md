@@ -11,6 +11,15 @@ passengers survived, or they perished, denoted by 0 and 1 respectively.
 
 Given the data, attempt to predict the data, ascertaining the survivability of passengers, listed in 'test.csv'.
 
+## Main Focus
+
+1. To keep the number of tries it takes for me to pull it off with and without a structured course
+2. To show the actual tries that make it through.
+
+First completion : 
+
+**titanic_survivors_classifications.ipynb**
+
 ## Requirements
 
 1. python3
@@ -54,9 +63,9 @@ https://www.kaggle.com/c/titanic/data
 
 https://www.kaggle.com/zlatankr/titanic-random-forest-82-78
 
-## My Purpose
+## Aim
 
-Comparison between :
+Compare between :
 1. Convolution Neural Networks with fine grained data interpolation.
 2. Random Forest with Correlative probabilities
 3. Random forest with fine grained interpolations.
